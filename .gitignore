@@ -13,7 +13,7 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 sandbox/build.gradle
-sandbox/build/classes/java/main/MyFirstProgram.class
+sandbox/build/classes/java/main/ru.srqa.pft.sandbox.MyFirstProgram.class
 sandbox/build/libs/sandbox.jar
 sandbox/build/tmp/compileJava/previous-compilation-data.bin
 sandbox/build/tmp/jar/MANIFEST.MF
