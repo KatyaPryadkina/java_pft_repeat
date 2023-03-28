@@ -23,3 +23,10 @@ java_pft_repeat.iml
 .idea/gradle.xml
 .idea/compiler.xml
 sandbox/build/classes/java/main/ru/srqa/pft/sandbox/MyFirstProgram1.class
+*.class
+*.bin
+*.idx
+*.js
+*.html
+*.css
+*.xml
