@@ -23,7 +23,7 @@ public class MyFirstProgram_1_8 {
 
     public static double area(Square_1_8 s) {                                           //в параметрах указан класс =s, и переменные обьявлены ч/з точку, т.к являются обьектами этого класса
         return s.l * s.l;
-    }
+    }                       //функции )
 
     public static double area(Rectangle_1_8 r) {                                        //одинаковое название ф-ий не перепутать, ибо типы параметров разные (разные классы)
         return r.a * r.b;

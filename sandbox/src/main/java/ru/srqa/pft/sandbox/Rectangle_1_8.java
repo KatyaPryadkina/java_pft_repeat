@@ -8,4 +8,8 @@ public class Rectangle_1_8 {                        //создан класс и
         this.a = a;
         this.b = b;
     }
+
+    public  double area() {
+        return this.a * this.b;
+    }
 }
