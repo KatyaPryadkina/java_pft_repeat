@@ -17,3 +17,8 @@ sandbox/build/classes/java/main/MyFirstProgram.class
 sandbox/build/libs/sandbox.jar
 sandbox/build/tmp/compileJava/previous-compilation-data.bin
 sandbox/build/tmp/jar/MANIFEST.MF
+java_pft_repeat.iml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/gradle.xml
+.idea/compiler.xml
