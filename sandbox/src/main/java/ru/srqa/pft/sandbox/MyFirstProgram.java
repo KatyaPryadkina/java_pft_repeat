@@ -2,8 +2,8 @@ package ru.srqa.pft.sandbox;        //указание,что класс MyFirst
 
 public class MyFirstProgram {
 
-public static void main(String[] args) {
-System.out.println("Hello,world");
-}
+    public static void main(String[] args) {                        //функция/метод (именованный блок кода с параметрами ф-и () для последующего обращения)
+        System.out.println("Hello,world");
+    }
 
 }
